@@ -1,0 +1,19 @@
+.profile{
+    width: 150px;
+}
+img{
+    border-radius: 3px;
+}
+
+.card{
+    background-color: #2b2839;
+    width: 400px; 
+    margin-left: auto;
+    margin-right:auto;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around; 
+    text-align: center;
+    color:#ffffff;
+    border: #ddebf8;
+}
